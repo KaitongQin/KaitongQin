@@ -4,7 +4,9 @@ I'm Kaitong Qin, welcome to my page!
 ### 🔬 Research & Academic
 
 * **Undergraduate Student**, *Southern University of Science and Technology (SUSTech)*
+
   *Department of Computer Science and Engineering*
+
   `2022.09 – Present`
 
   * 📚 Majoring in **Computer Science and Technology**, minoring in **Finance**
