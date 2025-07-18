@@ -11,7 +11,7 @@ I'm Kaitong Qin, welcome to my page!
 
   * 📚 Majoring in **Computer Science and Technology**, minoring in **Finance**
   * 🔍 Research Interests: **NLP**, **Text Classification**, **AIGC Detection**, **LLM Hallucination**
-  * 👨‍🏫 Academic Advisor: Prof. **Yang Xu**; Life Mentor: **Chen Wang**
+  * 👨‍🏫 Academic Advisor: Prof. **Yang Xu**; Life Mentor: Prof. **Chen Wang**
 
 ### 🧪 Side Projects & Contributions
 
